@@ -1,0 +1,6 @@
+{
+  "name": "KrishiSetu - Smart Agri Procurement Platform",
+  "description": "Smart procurement and automated queue management platform for the Department of Consumer Affairs (DoCA) to eliminate mandi congestion and wait times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
